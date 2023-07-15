@@ -1,2 +1,2 @@
-# pokemon-new-kanto
+# Pokemon New Kanto
  Pokemon fan game in GBA style
